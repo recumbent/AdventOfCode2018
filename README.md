@@ -20,6 +20,30 @@ Bet I also end up rearragning the folders lots
 [ ] Day 06 - 2
 [ ] Day 07 - 1
 [ ] Day 07 - 2
+[ ] Day 08 - 1
+[ ] Day 08 - 2
+[ ] Day 09 - 1
+[ ] Day 09 - 2
+[ ] Day 10 - 1
+[ ] Day 10 - 2
+[ ] Day 11 - 1
+[ ] Day 11 - 2
+[ ] Day 12 - 1
+[ ] Day 12 - 2
+[ ] Day 13 - 1
+[ ] Day 13 - 2
+[ ] Day 14 - 1
+[ ] Day 14 - 2
+[ ] Day 15 - 1
+[ ] Day 15 - 2
+[ ] Day 16 - 1
+[ ] Day 16 - 2
+[ ] Day 17 - 1
+[ ] Day 17 - 2
+[ ] Day 18 - 1
+[ ] Day 18 - 2
+[ ] Day 19 - 1
+[ ] Day 19 - 2
 
 ## Results
 
